@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Fastify Demo App
+  description: A Demo App with examples of how Fastify API is used..
+  
+  annotations:
+   github.com/project-slug: backstage/backstage
+   backstage.io/techdocs-ref: dir:.
+spec:
+  type: API
+  owner: prakash-coder13@github.com
+  lifecycle: poc
