@@ -5,7 +5,7 @@ metadata:
   description: A Demo App with examples of how Fastify API is used..
   
   annotations:
-   github.com/project-slug: backstage/backstage
+   github.com/project-slug: prakash-coder13/fastify-demo
    backstage.io/techdocs-ref: dir:.
 spec:
   type: API
